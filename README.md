@@ -1,4 +1,4 @@
-React Native Boilerplate - January 2019
+Express Boilerplate - January 2019
 ===========================================
 
 ## Features
